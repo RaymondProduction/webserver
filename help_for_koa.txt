@@ -1,0 +1,6 @@
+Start application of koa:
+
+node --harmony koa_experement.js
+
+nodejs must be version >=4
+
